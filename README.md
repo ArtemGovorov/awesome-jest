@@ -13,6 +13,7 @@
   * [Environments](#environments)
   * [Snapshot](#snapshot)
   * [Migration](#migration)
+  * [Data Driven](#data-driven)
 - [Resources](#resources)
 
 
@@ -49,6 +50,10 @@
 ### Migration
 
 - [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate from other test runner and frameworks to Jest.
+
+### Data Driven
+
+- [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be writen once with multiple rows of data supplied to run the test multiple times.
 
 
 ## Resources
